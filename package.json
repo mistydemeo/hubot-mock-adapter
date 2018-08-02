@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "hubot": ">=2.5.4"
+    "hubot": "hubotio/hubot#fed1ca3e3a8e5cb7cce069bc0f98888a72116778"
   },
   "license": "WTFPL"
 }
